@@ -1,0 +1,13 @@
+﻿.bg{
+  position: relative;
+  background: url(src/1.svg) center/contain no-repeat;
+  height: 100vh;
+}
+
+.bgcolor{
+  background: #F7F7F7;
+}
+
+body{
+  background: #F7F7F7;
+}
